@@ -7,9 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+#import "ServiceHelper.h"
+@interface AppDelegate : UIResponder <UIAlertViewDelegate,UIApplicationDelegate>{
+   
+    
+    BOOL isFirst;
+}
 
 @property (strong, nonatomic) UIWindow *window;
+-(void)AppRegisterApns;
+-(void)reRegisterApns;
 
+//推播处理
+-(void)pushHandler:(NSDictionary*)userInfo;
+
+-(void)asyncCircular;
 @end

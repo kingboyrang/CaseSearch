@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompleteSearchViewController</key>
+	<dict>
+		<key>A</key>
+		<string>compToRoad</string>
+		<key>B</key>
+		<string>compToLight</string>
+		<key>C</key>
+		<string>compToEP</string>
+		<key>D</key>
+		<string>compToPet</string>
+		<key>E</key>
+		<string>compToTax</string>
+		<key>F</key>
+		<string>compToHr</string>
+	</dict>
+	<key>MachineSearchViewController</key>
+	<dict>
+		<key>A</key>
+		<string>MachineToRoad</string>
+		<key>B</key>
+		<string>MachineToLight</string>
+		<key>C</key>
+		<string>MachineToEP</string>
+		<key>D</key>
+		<string>MachineToPet</string>
+		<key>E</key>
+		<string>MachineToTax</string>
+		<key>F</key>
+		<string>MachineToHr</string>
+	</dict>
+</dict>
+</plist>

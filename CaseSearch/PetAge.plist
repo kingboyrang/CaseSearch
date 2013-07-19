@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1個月</string>
+	<string>2個月</string>
+	<string>3個月</string>
+	<string>4個月</string>
+	<string>5個月</string>
+	<string>6個月</string>
+	<string>7個月</string>
+	<string>8個月</string>
+	<string>9個月</string>
+	<string>10個月</string>
+	<string>11個月</string>
+	<string>1年</string>
+	<string>2年</string>
+	<string>3年</string>
+	<string>4年</string>
+	<string>5年</string>
+	<string>6年</string>
+	<string>7年</string>
+	<string>8年</string>
+	<string>9年</string>
+	<string>10年</string>
+	<string>11年</string>
+	<string>12年</string>
+	<string>13年</string>
+	<string>14年</string>
+	<string>15年</string>
+	<string>16年</string>
+	<string>17年</string>
+	<string>18年</string>
+	<string>19年</string>
+	<string>20年</string>
+</array>
+</plist>
